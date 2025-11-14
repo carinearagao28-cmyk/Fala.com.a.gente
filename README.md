@@ -360,7 +360,7 @@
 </main>
 
 <footer>
-  Feira de TI Criativa &copy; 2024 - Desenvolvido pela equipe
+  Feira de TI Criativa &copy; 2025- Desenvolvido pela equipe
 </footer>
 
 <script>
